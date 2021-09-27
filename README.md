@@ -1,2 +1,2 @@
-# pmdmodel.com
+# pmdmodel.github.io
 The website for pmdmodels
