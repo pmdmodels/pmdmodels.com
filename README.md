@@ -1,2 +1,2 @@
-# pmdmodels.com
+# pmdmodel.com
 The website for pmdmodels
